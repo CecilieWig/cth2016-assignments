@@ -1,0 +1,12 @@
+
+  Usage: Bookstore [options]
+
+  Options:
+
+    -h, --help            output usage information
+    -V, --version         output the version number
+    -a, --author [value]  Author of the book
+    -t, --title [value]   Title of the book
+    -p, --price [value]   Price of the book
+    -k, --kind [value]    Kind of the book
+
